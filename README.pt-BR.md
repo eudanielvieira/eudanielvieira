@@ -25,16 +25,17 @@ Minha atuação se concentra em **APIs, integrações, sistemas distribuídos e 
 
 ### Como contribuo
 
-| Projetar e construir | Conectar e evoluir | Orientar e entregar |
-| :--- | :--- | :--- |
-| Serviços backend e APIs | Integração entre sistemas | Direção técnica |
-| Microsserviços e BFFs | Mensageria assíncrona | Decisões de arquitetura |
-| Persistência de dados | Confiabilidade e observabilidade | Orientação de engenheiros |
+- **Projetar e construir** — Serviços backend, APIs, microsserviços, BFFs e persistência de dados.
+- **Conectar e evoluir** — Integração entre sistemas, mensageria assíncrona, confiabilidade e observabilidade.
+- **Orientar e entregar** — Direção técnica, decisões de arquitetura e orientação de engenheiros.
 
 ### Ferramentas e tecnologias
 
-**Backend**  
-`Node.js` `TypeScript` `NestJS` `PHP` `Laravel`
+**Linguagens**  
+`Go` `TypeScript` `JavaScript` `PHP`
+
+**Backend e frameworks**  
+`Node.js` `NestJS` `Laravel`
 
 **Dados e mensageria**  
 `PostgreSQL` `MySQL` `MongoDB` `RabbitMQ`

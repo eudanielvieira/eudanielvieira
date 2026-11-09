@@ -25,16 +25,17 @@ My work centers on **APIs, integrations, distributed systems, and software that 
 
 ### Where I contribute
 
-| Design & build | Connect & evolve | Guide & deliver |
-| :--- | :--- | :--- |
-| Backend services and APIs | System integrations | Technical direction |
-| Microservices and BFFs | Asynchronous messaging | Architecture decisions |
-| Data persistence | Reliability and observability | Engineering guidance |
+- **Design & build** — Backend services, APIs, microservices, BFFs, and data persistence.
+- **Connect & evolve** — System integrations, asynchronous messaging, reliability, and observability.
+- **Guide & deliver** — Technical direction, architecture decisions, and engineering guidance.
 
 ### Technical toolkit
 
-**Backend**  
-`Node.js` `TypeScript` `NestJS` `PHP` `Laravel`
+**Languages**  
+`Go` `TypeScript` `JavaScript` `PHP`
+
+**Backend & frameworks**  
+`Node.js` `NestJS` `Laravel`
 
 **Data & messaging**  
 `PostgreSQL` `MySQL` `MongoDB` `RabbitMQ`
