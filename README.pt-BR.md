@@ -1,38 +1,65 @@
-# Daniel Vieira
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Daniel Vieira — Backend, Arquitetura, Engenharia" />
+</p>
 
-### Engenharia backend · Arquitetura de software · Liderança técnica
+<p align="center">
+  <strong>Engenharia Backend · Arquitetura de Software · Liderança Técnica</strong><br />
+  Serviços confiáveis. Sistemas conectados. Necessidades de produto transformadas em software.
+</p>
 
-Sou engenheiro de software brasileiro com mais de 13 anos de experiência na construção e evolução de sistemas backend, integrações e produtos digitais nos setores de saúde, varejo e serviços.
+<p align="center">
+  <a href="https://www.linkedin.com/in/eudanielvieira/"><strong>LinkedIn ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:daniel.vieira@dimx.one"><strong>E-mail ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="./README.md"><strong>Read in English</strong></a>
+</p>
 
-Combino desenvolvimento próximo do código com orientação técnica: desenho de APIs, integração entre sistemas, evolução de serviços e apoio a decisões práticas de arquitetura.
+---
 
-[LinkedIn](https://www.linkedin.com/in/eudanielvieira/) · [English](README.md)
+### Sobre mim
 
-## Experiência em engenharia
+Engenheiro de software brasileiro com **mais de 13 anos de experiência** em saúde, varejo e serviços digitais. Combino desenvolvimento backend próximo do código com decisões de arquitetura e orientação técnica.
 
-- **Backend e integrações:** APIs REST e GraphQL, microsserviços, mensageria e bancos de dados relacionais e NoSQL.
-- **Liderança técnica:** direção técnica de backend e arquitetura na Dasa, em serviços para a jornada do paciente, serviços core e integrações de saúde.
-- **Comércio digital:** microsserviços de checkout e integrações com VTEX na Cobasi, utilizando RabbitMQ e MongoDB.
-- **Produtos digitais:** desenvolvimento e evolução de plataformas na Rede Melhor Compra e no Portal do PBM.
-- **Empreendedorismo:** Founder & CTO da DIMX, conectando necessidades de produto às decisões de engenharia.
+Minha atuação se concentra em **APIs, integrações, sistemas distribuídos e software mais fácil de operar e evoluir**. Também sou Founder & CTO da **DIMX**, conectando necessidades de produto às decisões de engenharia.
 
-## Base técnica
+### Como contribuo
 
-| Área | Tecnologias e práticas |
-| --- | --- |
-| Backend | Node.js, TypeScript, NestJS, PHP, Laravel |
-| APIs e integração | REST, GraphQL, BFFs, microsserviços |
-| Mensageria e dados | RabbitMQ, PostgreSQL, MySQL, MongoDB |
-| Entrega e operação | Docker, CI/CD, observabilidade e ambientes em nuvem |
+| Projetar e construir | Conectar e evoluir | Orientar e entregar |
+| :--- | :--- | :--- |
+| Serviços backend e APIs | Integração entre sistemas | Direção técnica |
+| Microsserviços e BFFs | Mensageria assíncrona | Decisões de arquitetura |
+| Persistência de dados | Confiabilidade e observabilidade | Orientação de engenheiros |
 
-## Estudos pessoais
+### Ferramentas e tecnologias
 
-Estudo **Go (Golang)** por interesse pessoal, explorando concorrência, simplicidade e desenvolvimento de serviços backend. Minha experiência profissional se apoia nas tecnologias listadas acima.
+**Backend**  
+`Node.js` `TypeScript` `NestJS` `PHP` `Laravel`
+
+**Dados e mensageria**  
+`PostgreSQL` `MySQL` `MongoDB` `RabbitMQ`
+
+**Arquitetura e entrega**  
+`REST` `GraphQL` `Microsserviços` `Docker` `CI/CD` `Observabilidade`
+
+### Experiência em resumo
+
+- **Dasa** — Liderança técnica de backend, serviços para a jornada do paciente, serviços core e integrações de saúde.
+- **Cobasi** — Microsserviços de checkout, APIs da VTEX, mensageria com RabbitMQ e persistência com MongoDB.
+- **Rede Melhor Compra e Portal do PBM** — Desenvolvimento e evolução de plataformas digitais e integrações do setor farmacêutico.
+- **DIMX** — Founder & CTO, aproximando estratégia, produto e engenharia.
+
+### Além da engenharia do dia a dia
+
+**Go / Golang** é um interesse pessoal de estudo. Exploro sua abordagem de concorrência, simplicidade e desenvolvimento de serviços backend.
 
 Também estou desenvolvendo minha comunicação em inglês.
 
-## Contato
+---
 
-Para conhecer minha trajetória e conversar sobre backend, arquitetura e produtos digitais, acesse [meu perfil no LinkedIn](https://www.linkedin.com/in/eudanielvieira/).
-
-Contato profissional: [daniel.vieira@dimx.one](mailto:daniel.vieira@dimx.one)
+<p align="center">
+  <strong>Vamos conversar sobre backend, arquitetura e produtos digitais.</strong><br /><br />
+  <a href="mailto:daniel.vieira@dimx.one">daniel.vieira@dimx.one</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/eudanielvieira/">linkedin.com/in/eudanielvieira</a>
+</p>
