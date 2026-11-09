@@ -25,15 +25,6 @@ Combino desenvolvimento próximo do código com orientação técnica: desenho d
 | Mensageria e dados | RabbitMQ, PostgreSQL, MySQL, MongoDB |
 | Entrega e operação | Docker, CI/CD, observabilidade e ambientes em nuvem |
 
-## Projetos públicos
-
-| Projeto | O que explorar |
-| --- | --- |
-| [base-api](https://github.com/eudanielvieira/base-api) | Base de API em NestJS com autenticação, autorização, gestão de usuários, fluxos de e-mail, documentação Swagger e logs. |
-| [Aqua360](https://github.com/eudanielvieira/aqua360) | Produto pessoal de aquarismo, com aplicação React/TypeScript e geração de SEO durante o build. |
-
-Esses repositórios apresentam projetos públicos e experimentos. O escopo e a maturidade de cada um estão descritos em sua própria documentação.
-
 ## Estudos pessoais
 
 Estudo **Go (Golang)** por interesse pessoal, explorando concorrência, simplicidade e desenvolvimento de serviços backend. Minha experiência profissional se apoia nas tecnologias listadas acima.
@@ -43,3 +34,5 @@ Também estou desenvolvendo minha comunicação em inglês.
 ## Contato
 
 Para conhecer minha trajetória e conversar sobre backend, arquitetura e produtos digitais, acesse [meu perfil no LinkedIn](https://www.linkedin.com/in/eudanielvieira/).
+
+Contato profissional: [daniel.vieira@dimx.one](mailto:daniel.vieira@dimx.one)
