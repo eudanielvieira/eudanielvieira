@@ -34,8 +34,11 @@ Minha atuação se concentra em **APIs, integrações, sistemas distribuídos e 
 **Linguagens**  
 `Go` `TypeScript` `JavaScript` `PHP`
 
-**Backend e frameworks**  
-`Node.js` `NestJS` `Laravel`
+**Runtimes**  
+`Bun` `Node.js`
+
+**Frameworks**  
+`Elysia` `Gin (Go)` `NestJS` `Laravel`
 
 **Dados e mensageria**  
 `PostgreSQL` `MySQL` `MongoDB` `RabbitMQ`

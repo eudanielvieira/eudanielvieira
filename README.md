@@ -34,8 +34,11 @@ My work centers on **APIs, integrations, distributed systems, and software that 
 **Languages**  
 `Go` `TypeScript` `JavaScript` `PHP`
 
-**Backend & frameworks**  
-`Node.js` `NestJS` `Laravel`
+**Runtimes**  
+`Bun` `Node.js`
+
+**Frameworks**  
+`Elysia` `Gin (Go)` `NestJS` `Laravel`
 
 **Data & messaging**  
 `PostgreSQL` `MySQL` `MongoDB` `RabbitMQ`
