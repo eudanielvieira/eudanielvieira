@@ -25,15 +25,6 @@ My work combines hands-on development with technical guidance: designing APIs, c
 | Messaging and data | RabbitMQ, PostgreSQL, MySQL, MongoDB |
 | Delivery and operations | Docker, CI/CD, observability, cloud environments |
 
-## Public projects
-
-| Project | What to explore |
-| --- | --- |
-| [base-api](https://github.com/eudanielvieira/base-api) | A NestJS API foundation covering authentication, authorization, user management, email flows, Swagger documentation, and logging. |
-| [Aqua360](https://github.com/eudanielvieira/aqua360) | A personal aquarism product, with a React/TypeScript application and build-time SEO generation. |
-
-These repositories represent public projects and experiments. Their scope and maturity are described in their own documentation.
-
 ## Personal learning
 
 I study **Go (Golang)** out of personal interest, exploring concurrency, simplicity, and backend service development. My professional experience is grounded in the technologies listed above.
@@ -43,3 +34,5 @@ I am also developing my English communication skills.
 ## Connect
 
 For my professional background and conversations about backend engineering, architecture, and digital products, visit [my LinkedIn profile](https://www.linkedin.com/in/eudanielvieira/).
+
+Business contact: [daniel.vieira@dimx.one](mailto:daniel.vieira@dimx.one)
