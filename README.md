@@ -23,6 +23,70 @@ Brazilian software engineer with **13+ years of experience** across healthcare, 
 
 My work centers on **APIs, integrations, distributed systems, and software that is easier to operate and evolve**. I also serve as Founder & CTO at **DIMX**, connecting product needs with engineering decisions.
 
+### Career highlights
+
+**13+ years in software engineering** · **Healthcare & retail** · **Hands-on technical leadership**
+
+Co-founder of **Portal do PBM**, with **100,000+ monthly users and 1 million+ monthly visits**. Backend experience spans **Dasa's NAV patient journey**, **Cobasi's checkout**, and the pharmaceutical platforms at **Rede Melhor Compra**.
+
+### Selected experience
+
+#### Rede Melhor Compra · Technology Director
+**October 2023–present · At the company since October 2013**
+
+Progressed from Systems Analyst & Developer to Head of Technology and Technology Director, combining software delivery with product and technology strategy.
+
+- Define technology direction, product roadmaps, architecture, and priorities across multiple digital platforms.
+- Built and evolved pharmaceutical B2B sales systems and external integrations, including FTP-based order automation with laboratories.
+- Developed internal consulting systems, a field consultant application with access to store data, and training and marketing portals.
+- Connect engineering decisions to the daily operation of the pharmacy network.
+
+**Foundation:** PHP, JavaScript, MySQL, system integrations, backend architecture.
+
+#### Portal do PBM & Portal da Popular · Product & engineering
+**Portal do PBM Co-founder since August 2016 · Head of Product since June 2020**
+
+- **Portal do PBM: 100,000+ monthly users and 1 million+ monthly visits.**
+- **Portal da Popular: 15,000+ monthly users and 50,000+ monthly visits.**
+- Lead product strategy, discovery, delivery, and continuous improvement for public pharmaceutical platforms.
+- Work on platform architecture, search and indexing, data organization, partner integrations, and performance.
+- Use user behavior and product data to guide acquisition, conversion, retention, and experience improvements.
+
+#### Dasa · Backend Technical Leadership
+**February 2022–September 2023**
+
+Worked across the **NAV patient journey** and **Core Services & Integrations** squads, combining technical guidance with hands-on backend development.
+
+- Developed backend services and BFFs supporting the patient journey on NAV.
+- Defined microservice solutions and guided backend engineers on architecture and implementation.
+- Built and evolved shared services and integrations across hospitals, laboratories, and partner systems.
+- Contributed to service standardization, observability, monitoring, incident response, and delivery automation.
+
+**Stack:** Node.js, NestJS, JavaScript, GraphQL, PostgreSQL, MongoDB, Azure, Rancher, Jenkins.
+
+#### Cobasi · Backend Engineer
+**July 2021–February 2022**
+
+Worked on **checkout microservices**, directly supporting the e-commerce purchase flow.
+
+- Integrated backend services with VTEX APIs.
+- Implemented asynchronous communication with RabbitMQ.
+- Worked on data persistence and transaction handling with MongoDB.
+- Developed services with attention to checkout performance and reliability.
+
+**Stack:** Node.js, NestJS, VTEX, RabbitMQ, MongoDB.
+
+#### DIMX · Founder & CTO
+**November 2025–present**
+
+Founded DIMX to connect business strategy, digital products, and software engineering for small and medium-sized businesses in Brazil and Latin America.
+
+- Define technical direction and architecture around each client's product and business needs.
+- Turn product priorities into engineering decisions and short delivery cycles.
+- Guide software evolution with attention to simplicity, security, and maintainability.
+
+[Professional background and role details on LinkedIn ↗](https://www.linkedin.com/in/eudanielvieira/)
+
 ### Where I contribute
 
 - **Design & build** — Backend services, APIs, microservices, BFFs, and data persistence.
@@ -45,13 +109,6 @@ My work centers on **APIs, integrations, distributed systems, and software that 
 
 **Architecture & delivery**  
 `REST` `GraphQL` `Microservices` `Docker` `CI/CD` `Observability`
-
-### Experience at a glance
-
-- **Dasa** — Technical leadership for backend engineering, patient journey services, core services, and healthcare integrations.
-- **Cobasi** — Checkout microservices, VTEX APIs, RabbitMQ messaging, and MongoDB persistence.
-- **Rede Melhor Compra & Portal do PBM** — Long-term development and evolution of digital platforms and pharmaceutical industry integrations.
-- **DIMX** — Founder & CTO, bringing strategy, product, and engineering together.
 
 ### Beyond day-to-day engineering
 
